@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Reactstrap-Crud/static/css/main.700e8687.chunk.css",
+    "main.js": "/Reactstrap-Crud/static/js/main.5a0aa141.chunk.js",
+    "main.js.map": "/Reactstrap-Crud/static/js/main.5a0aa141.chunk.js.map",
+    "runtime-main.js": "/Reactstrap-Crud/static/js/runtime-main.b76b9f2b.js",
+    "runtime-main.js.map": "/Reactstrap-Crud/static/js/runtime-main.b76b9f2b.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Reactstrap-Crud/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.b2da5290.chunk.js": "/Reactstrap-Crud/static/js/2.b2da5290.chunk.js",
+    "static/js/2.b2da5290.chunk.js.map": "/Reactstrap-Crud/static/js/2.b2da5290.chunk.js.map",
+    "index.html": "/Reactstrap-Crud/index.html",
+    "precache-manifest.14b84d6d0ce017bb35b7c09de9cf6c2d.js": "/Reactstrap-Crud/precache-manifest.14b84d6d0ce017bb35b7c09de9cf6c2d.js",
+    "service-worker.js": "/Reactstrap-Crud/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Reactstrap-Crud/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.700e8687.chunk.css.map": "/Reactstrap-Crud/static/css/main.700e8687.chunk.css.map",
+    "static/js/2.b2da5290.chunk.js.LICENSE.txt": "/Reactstrap-Crud/static/js/2.b2da5290.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b76b9f2b.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.b2da5290.chunk.js",
+    "static/css/main.700e8687.chunk.css",
+    "static/js/main.5a0aa141.chunk.js"
+  ]
+}
